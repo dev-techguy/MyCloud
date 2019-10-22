@@ -15,12 +15,12 @@
   <img src="https://github.com/dev-techguy/Point-Of-Sale/blob/master/img/banner.PNG">
 </p>
 
-Mycloud is a POS sofware that has the following features.
+Mycloud is a POS software that has the following features.
 
 - Stock taking.
 - Three Levels of users (Super admin, admin and users)
-- Real time stock anaylsis.
-- Receipt printing and invoicing.
+- Real time stock analysis.
+- Receipt, printing and invoicing.
 - Supplier management and payment.
 - Set-up and find more.
 
