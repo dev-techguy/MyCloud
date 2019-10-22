@@ -52,7 +52,7 @@ Here you can download the repository to get the .exe and database file.
 
 ### Step 2 (SQL GRANT)
 
-After creating database now next is to grant permissions. This are the steps.
+After creating database, next is to grant permissions. This are the steps.
 
 - Run cmd as administrator.
 - Navigate to cd xampp/mysql/bin.
