@@ -36,13 +36,17 @@ Before installing the software you have to install the following.
 - [Xampp Server](https://www.apachefriends.org/index.html)
 - [Java Runtime Environment(JRE) 12.0.2](https://www.java.com/en/)
 
+## Software Architecture
+
+The software currently performance well on windows 7,8 and 10 only.
+
 
 ## Software Download
 
 Here you can download the repository to get the .exe and database file.
 
 
-## Installing Steps (For Windows Users)
+## Software Installation
 
 ### Step 1 (Database Set-up)
 
