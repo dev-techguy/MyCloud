@@ -55,7 +55,7 @@ Here you can download the repository to get the .exe and database file.
 After creating database, next is to grant permissions. This are the steps.
 
 - Run cmd as administrator.
-- Navigate to cd xampp/mysql/bin.
+- Navigate to *cd xampp/mysql/bin*.
 - Copy and Paste the code below.
 
 ```php
