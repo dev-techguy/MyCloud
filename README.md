@@ -71,8 +71,8 @@ FLUSH PRIVILEGES;
 ```
 ### Step 3 (Running set-up)
 
-- Through your browser *http://localhost/phpmyadmin* import mycloud.sql to the database you created earlier.
-- Then run the mycloud.exe setup.
+- Through your browser *http://localhost/phpmyadmin* import *mycloud.sql* to the database you created earlier.
+- Then run the *mycloud.exe* setup.
 
 ### Step 4 (Credentials)
 
