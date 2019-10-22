@@ -69,6 +69,12 @@ FLUSH PRIVILEGES;
 
 Run the mycloud.exe setup.
 
+### Step 4 (Credentials)
+
+After successful installation, you will be redirect to login page.
+
+- Login as admin | username = *mycloud* | password = *12345678*.
+
 ## Security Vulnerabilities
  For any security vulnerabilities, please email to [TechGuy](mailto:dev.techguy@mail.com).
  
