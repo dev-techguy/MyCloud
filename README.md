@@ -47,7 +47,7 @@ Here you can download the repository to get the .exe and database file.
 ### Step 1 (Database Set-up)
 
 - Install xampp and start it.
-- Go browser and enter http://localhost/.
+- Go browser and enter *http://localhost/phpmyadmin*.
 - Create database named *mycloud*.
 
 ### Step 2 (SQL GRANT)
@@ -67,7 +67,8 @@ FLUSH PRIVILEGES;
 ```
 ### Step 3 (Running set-up)
 
-Run the mycloud.exe setup.
+- Through your browser *http://localhost/phpmyadmin* import mycloud.sql to the database you created earlier.
+- Then run the mycloud.exe setup.
 
 ### Step 4 (Credentials)
 
