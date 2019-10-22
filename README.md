@@ -74,7 +74,7 @@ FLUSH PRIVILEGES;
 
 After successful installation, you will be redirect to login page.
 
-- Login as admin | username = *mycloud* | password = *12345678*.
+- Login as admin | username = *mycloud* | password = *12345678*.  <img src="https://github.com/dev-techguy/Point-Of-Sale/blob/master/img/login.PNG">
 
 ## Security Vulnerabilities
  For any security vulnerabilities, please email to [TechGuy](mailto:dev.techguy@mail.com).
