@@ -38,7 +38,7 @@ Before installing the software you have to install the following.
 
 ## Software Architecture
 
-The software currently performance well on windows 7,8 and 10 only.
+The software currently performance well on windows 7, 8 and 10 only.
 
 
 ## Software Download
