@@ -60,6 +60,7 @@ After creating database, next is to grant permissions. This are the steps.
 
 - Run cmd as administrator.
 - Navigate to *cd xampp/mysql/bin*.
+- Type in the terminal *mysql -u root*. Remember no password will be required just hit return key.
 - Copy and Paste the code below.
 
 ```php
