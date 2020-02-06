@@ -79,7 +79,7 @@ FLUSH PRIVILEGES;
 
 After successful installation, you will be redirect to login page.
 
-- Login as admin | username = *mycloud* | password = *12345678*. 
+- Login as admin | nationalID = *12345678* | password = *12345678*. 
 
 - Login *GUI*
 
