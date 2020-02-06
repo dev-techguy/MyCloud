@@ -33,8 +33,8 @@ Mycloud is a POS software that has the following features.
 
 Before installing the software you have to install the following.
 
-- [Xampp Server](https://www.apachefriends.org/index.html)
-- [Java Development Kit(JDK) 12.0.2](https://www.oracle.com/java/)
+- [Xampp Server](https://www.apachefriends.org/xampp-files/7.3.14/xampp-windows-x64-7.3.14-0-VC15-installer.exe)
+- [Java Development Kit(JDK) 13.0.2](https://www.oracle.com/java/)
 
 ## Software Architecture
 
@@ -87,6 +87,17 @@ After successful installation, you will be redirect to login page.
 
 ## Security Vulnerabilities
  For any security vulnerabilities, please email to [TechGuy](mailto:dev.techguy@mail.com).
+
+
+## TroubleShooting
+
+On system crash or had shutdown the application and when trying to start can't seem to start. Kindly follow this:-
+
+- Check if xampp server *(Apache & MySQL)* are running.
+
+- Stop both *(Apache & MySQL)*
+
+- Try starting the application.
  
 ## License
- This software licensed under the [EULA LICENSE](#).
+ This software licensed under the [EULA LICENSE](https://github.com/dev-techguy/Point-Of-Sale/blob/master/license.txt).
