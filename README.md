@@ -91,13 +91,15 @@ After successful installation, you will be redirect to login page.
 
 ## TroubleShooting
 
-On system crash or had shutdown the application and when trying to start can't seem to start. Kindly follow this:-
+On system crash or you had shutdown the application and when trying to start, you find out that the *mycloud app* can't seem to start. Kindly follow this:-
 
 - Check if xampp server *(Apache & MySQL)* are running.
 
 - Stop both *(Apache & MySQL)*
 
 - Try starting the application.
+
+- I the above steps don't work restart your *PC*.
  
 ## License
  This software licensed under the [EULA LICENSE](https://github.com/dev-techguy/Point-Of-Sale/blob/master/license.txt).
