@@ -99,7 +99,7 @@ On system crash or you had shutdown the application and when trying to start, yo
 
 - Try starting the application.
 
-- I the above steps don't work restart your *PC*.
+- If the above steps don't work restart your *PC*.
  
 ## License
  This software licensed under the [EULA LICENSE](https://github.com/dev-techguy/Point-Of-Sale/blob/master/license.txt).
