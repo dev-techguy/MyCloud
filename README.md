@@ -34,7 +34,7 @@ Mycloud is a POS software that has the following features.
 Before installing the software you have to install the following.
 
 - [Xampp Server](https://www.apachefriends.org/xampp-files/7.3.14/xampp-windows-x64-7.3.14-0-VC15-installer.exe)
-- [Java Development Kit(JDK) 13.0.2](https://www.oracle.com/java/)
+- [Java Development Kit(JDK) 13.0.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html)
 
 ## Software Architecture
 
