@@ -84,22 +84,22 @@ After successful installation, you will be redirect to login page.
 - Login *GUI*
 
  <img src="https://github.com/dev-techguy/Point-Of-Sale/blob/master/img/login.PNG">
-
-## Security Vulnerabilities
- For any security vulnerabilities, please email to [TechGuy](mailto:dev.techguy@mail.com).
-
-
+ 
+ 
 ## TroubleShooting
 
-On system crash or you had shutdown the application and when trying to start, you find out that the *mycloud app* can't seem to start. Kindly follow this:-
+On system crash or you had shutdown the application and when trying to start, you find out that *mycloud app* can't seem to start. Kindly follow this:-
 
-- Check if xampp server *(Apache & MySQL)* are running.
+- Check if xampp server *(Apache & MySQL)* is running.
 
 - Stop both *(Apache & MySQL)*
 
 - Try starting the application.
 
 - If the above steps don't work restart your *PC*.
+
+## Security Vulnerabilities
+ For any security vulnerabilities, please email to [TechGuy](mailto:dev.techguy@mail.com).
  
 ## License
  This software licensed under the [EULA LICENSE](https://github.com/dev-techguy/Point-Of-Sale/blob/master/license.txt).
